@@ -1,17 +1,13 @@
 ##Fake-Portal 
-######Fake portal to get user credentials from social media accounts.
+######Fake portal to get user credentials for social media accounts.
 
 **Introduction**
 
-Tthis is a *custom fake evil hotspot portal* to capture credentials.
-It's a deceptive way to get user's social media login accounts.
+Tthis is a *custom fake evil hotspot portal* to capture credentials. It's a deceptive way to get user's social media login accounts. This hack was done and tested with *ParrotSec* and *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same. 
 
 
-/* Fake Portal - Harvest User Credentials */
-/* This hack was done and tested with ParrotSec */
-
-/* Requirements : 
-Wifi-Pumpkin, Apache2 WebServer, Mysql, PhP */
+**Requirements**
+Wifi-Pumpkin, Apache2 WebServer, Mysql, PhP
 
 /* Kali & Parrotsec comes with apache, mysql and Php but if you need to install
 it manually you can install with this command */
