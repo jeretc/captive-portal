@@ -36,22 +36,23 @@ Kali & Parrotsec comes with apache, mysql and Php but if you need to install it 
 *sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt*
 
 
-/* For Wifi-Pumpkin installation refer to : */
 
-https://github.com/P0cL4bs/WiFi-Pumpkin/wiki/Installation 
+**For Wifi-Pumpkin installation refer to :**
 
-
-/* The easy method: 
-
-Use this portal with Wifi-Pumpkin, copy the downloaded files to your "www" folder. Download Wifi-Pumpkin : */
-
-https://github.com/P0cL4bs/WiFi-Pumpkin
+*https://github.com/P0cL4bs/WiFi-Pumpkin/wiki/Installation*
 
 
+**The easy method:** 
 
-/* the learning method, do it manually */
+Use this portal with Wifi-Pumpkin, copy the downloaded files to your "www" folder. Download Wifi-Pumpkin :
 
-http://www.rootsh3ll.com/2015/12/fake-wifi-access-point-walkthrough/
+*https://github.com/P0cL4bs/WiFi-Pumpkin*
+
+
+
+**the learning method, do it manually**
+
+*http://www.rootsh3ll.com/2015/12/fake-wifi-access-point-walkthrough/*
 
 
 
