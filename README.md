@@ -1,37 +1,39 @@
 ##Fake-Portal 
 ######Fake portal to get user credentials for social media accounts.
 
+
 **Introduction**
 
-Tthis is a *custom fake evil hotspot portal* to capture credentials. It's a deceptive way to get user's social media login accounts. This hack was done and tested with *ParrotSec* and *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same. 
+Tthis is a *custom fake evil hotspot portal* to capture credentials. It's a deceptive way to get user's social media login accounts. This hack was tested with *ParrotSec* and *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same.
+
 
 
 **Requirements**
 Wifi-Pumpkin, Apache2 WebServer, Mysql, PhP
 
-/* Kali & Parrotsec comes with apache, mysql and Php but if you need to install
-it manually you can install with this command */
 
-/* Apache2 */
+Kali & Parrotsec comes with apache, mysql and Php but if you need to install it manually, these commands will install the necessary files.
 
-sudo apt-get update
-sudo apt-get install apache2
+**Apache2**
 
-/* Mysql */
+*sudo apt-get update*
+*sudo apt-get install apache2*
 
-sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mysql
+**Mysql**
 
-/* Activate mysql */
+*sudo apt-get install mysql-server libapache2-mod-auth-mysql php5-mysql*
 
-sudo mysql_install_db
+**Activate mysql**
+
+*sudo mysql_install_db*
  
-/* Finish up installation running the MySQL set up script */
+**Finish up installation running the MySQL set up script**
 
-sudo /usr/bin/mysql_secure_installation
+*sudo /usr/bin/mysql_secure_installation*
  
-/* PhP */
+**PhP**
 
-sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt
+*sudo apt-get install php5 libapache2-mod-php5 php5-mcrypt*
 
 
 /* For Wifi-Pumpkin installation refer to : */
