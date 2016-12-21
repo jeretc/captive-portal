@@ -1,4 +1,4 @@
-##Fake-Portal 
+##Custom Fake-Portal 
 ######Fake portal to get user credentials for social media accounts.
 
 
@@ -56,13 +56,14 @@ Use this portal with Wifi-Pumpkin, copy the downloaded files to your "www" folde
 
 
 
-Email me "jereted879@gmail.com" for more details, web & graphic design & hacks. 
+
+Email me *"jereted879@gmail.com"* for more details, web & graphic design & hacks. 
  
 
 
 Thanks and have fun!
 
-www.facebook.com/hackprooftips <-- like my page :)
+*www.facebook.com/hackprooftips* **<--** like my page :smile:
 
 
 
