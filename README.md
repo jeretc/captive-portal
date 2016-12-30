@@ -7,7 +7,7 @@
 
 **Introduction**
 
-Tthis is a *custom fake evil hotspot portal* to capture credentials. It's a deceptive way to get user's social media login accounts. This hack was tested on *ParrotSec* and with *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same.
+This is a *custom fake evil hotspot portal* to capture credentials. It's a deceptive way to get user's social media login accounts. This hack was tested on *ParrotSec* and with *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same.
 
 
 
