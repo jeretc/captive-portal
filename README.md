@@ -66,4 +66,4 @@ Thanks and have fun!
 *www.facebook.com/hackprooftips* **<--** like my page :smile:
 
 
-** This tutorial are for informational and educational purposes only. Do it at your own risk.*
+* This tutorial are for informational and educational purposes only. Do it at your own risk.*
