@@ -1,5 +1,5 @@
-##Custom Fake-Portal 
-######Fake portal to get user credentials for social media accounts.
+Custom Fake-Portal To Get User Credentials For Social Media Accounts. 
+
 
 ![rsz_mobile-portal](https://cloud.githubusercontent.com/assets/20941239/21763192/98ff6f92-d697-11e6-8ed1-017aedddce56.jpg)
 
