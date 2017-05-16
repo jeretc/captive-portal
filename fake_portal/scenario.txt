@@ -1,0 +1,13 @@
+The redirect is A static page that says please try again..
+
+
+
+
+
+The scenario:
+
+
+
+The reason to do that are for some users who uses fake email & passwords. They will think that 
+their fake email & password id cannot be recognised or incorrect and thus they would probably try again with their legit 
+social media email & password. 
