@@ -14,8 +14,8 @@
       <a title="Apache Download" href="http://php.net/manual/en/install.unix.debian.php">
     <img src="https://img.shields.io/badge/Apache-Required-red.svg">
   </a>
-      <a title="MySQL Download" href="https://dev.mysql.com/downloads/Mysql/">
-    <img src="https://img.shields.io/badge/mySQL-Required-green.svg">
+      <a title="MySQL Download" href="https://dev.mysql.com/downloads/mysql/">
+    <img src="https://img.shields.io/badge/MySQL-Required-green.svg">
   </a>
     <img title="Works in all platforms" src="https://img.shields.io/badge/Platform-All-orange.svg">
   <a title="Follow us in Facebook" href="https://www.facebook.com/hackprooftips/">
