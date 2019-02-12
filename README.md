@@ -14,7 +14,7 @@
       <a title="Apache Download" href="http://php.net/manual/en/install.unix.debian.php">
     <img src="https://img.shields.io/badge/Apache-Required-red.svg">
   </a>
-      <a title="mySQL Download" href="https://dev.mysql.com/downloads/mysql/">
+      <a title="MySQL Download" href="https://dev.mysql.com/downloads/Mysql/">
     <img src="https://img.shields.io/badge/mySQL-Required-green.svg">
   </a>
     <img title="Works in all platforms" src="https://img.shields.io/badge/Platform-All-orange.svg">
@@ -35,7 +35,7 @@
 
 **Introduction**
 
-This is a *custom fake evil hotspot portal* to capture credentials. It's a deceptive way to get user's social media login accounts. This hack was tested on *ParrotSec* and with *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same.
+This is a *custom fake "hotspot" portal* to capture social media login credentials. It's a deceptive way to get user's social media login accounts. This hack was tested on *ParrotSec* and with *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same. You can also use it as stand alone portal, make sure Apache, PHP and MySQL are installed. Follow the youtube link above for more instructions. 
 
 
 
