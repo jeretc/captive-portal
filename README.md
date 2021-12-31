@@ -35,7 +35,12 @@
 
 **Introduction**
 
-This is a *custom fake "hotspot" portal* to capture social media login credentials. It's a deceptive way to get user's social media login accounts. Tested on *ParrotSec* and with *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same. You can also use it as stand alone portal, make sure Apache, PHP and MySQL are installed. Follow youtube link for more instructions. 
+This is a *custom fake "hotspot" portal* to capture social media login credentials. It's a deceptive way to get user's social media login accounts. Tested on *ParrotSec* and with *WiFi-Pumpkin*. You can use any linux machine, mitm tool to perform this attack. The techniques are more or less the same. You can also use it as stand alone portal, make sure Apache, PHP and MySQL are installed.
+  
+  
+  **My Tutorials :**
+
+*https://odysee.com/@hacktheplanet:5*
 
 
 
